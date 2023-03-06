@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Gajanan Kale and welcome to my GitHub profile! 
+### I'm Gajanan Kale and welcome to my GitHub profile! 
 
 - 🔭 I’m currently working on on Data Science.
 - 🌱 I’m currently learning Python, SQL, Machine Learning, and Tableau.
